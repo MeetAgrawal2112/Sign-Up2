@@ -4,8 +4,8 @@
 }
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 3;
+    padding: 2;
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
     color: var(--txt);
